@@ -1,0 +1,45 @@
+,Method,Description
+0,capitalize(),Converts the first character to upper case
+1,casefold(),Converts string into lower case
+2,center(),Returns a centered string
+3,count(),Returns the number of times a specified value occurs in a string
+4,encode(),Returns an encoded version of the string
+5,endswith(),Returns true if the string ends with the specified value
+6,expandtabs(),Sets the tab size of the string
+7,find(),Searches the string for a specified value and returns the position of where it was found
+8,format(),Formats specified values in a string
+9,format_map(),Formats specified values in a string
+10,index(),Searches the string for a specified value and returns the position of where it was found
+11,isalnum(),Returns True if all characters in the string are alphanumeric
+12,isalpha(),Returns True if all characters in the string are in the alphabet
+13,isdecimal(),Returns True if all characters in the string are decimals
+14,isdigit(),Returns True if all characters in the string are digits
+15,isidentifier(),Returns True if the string is an identifier
+16,islower(),Returns True if all characters in the string are lower case
+17,isnumeric(),Returns True if all characters in the string are numeric
+18,isprintable(),Returns True if all characters in the string are printable
+19,isspace(),Returns True if all characters in the string are whitespaces
+20,istitle(),Returns True if the string follows the rules of a title
+21,isupper(),Returns True if all characters in the string are upper case
+22,join(),Joins the elements of an iterable to the end of the string
+23,ljust(),Returns a left justified version of the string
+24,lower(),Converts a string into lower case
+25,lstrip(),Returns a left trim version of the string
+26,maketrans(),Returns a translation table to be used in translations
+27,partition(),Returns a tuple where the string is parted into three parts
+28,replace(),Returns a string where a specified value is replaced with a specified value
+29,rfind(),Searches the string for a specified value and returns the last position of where it was found
+30,rindex(),Searches the string for a specified value and returns the last position of where it was found
+31,rjust(),Returns a right justified version of the string
+32,rpartition(),Returns a tuple where the string is parted into three parts
+33,rsplit(),"Splits the string at the specified separator, and returns a list"
+34,rstrip(),Returns a right trim version of the string
+35,split(),"Splits the string at the specified separator, and returns a list"
+36,splitlines(),Splits the string at line breaks and returns a list
+37,startswith(),Returns true if the string starts with the specified value
+38,strip(),Returns a trimmed version of the string
+39,swapcase(),"Swaps cases, lower case becomes upper case and vice versa"
+40,title(),Converts the first character of each word to upper case
+41,translate(),Returns a translated string
+42,upper(),Converts a string into upper case
+43,zfill(),Fills the string with a specified number of 0 values at the beginning
